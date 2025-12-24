@@ -3,13 +3,11 @@
     "details": [
       {
         "appID": "9JC36V5XK8.com.prasaddys.Ramyam",
-        "paths": ["/"]
+        "paths": ["*"] 
       }
     ]
   },
   "webcredentials": {
-    "apps": [
-      "9JC36V5XK8.com.prasaddys.Ramyam"
-    ]
+    "apps": ["9JC36V5XK8.com.prasaddys.Ramyam"]
   }
 }
